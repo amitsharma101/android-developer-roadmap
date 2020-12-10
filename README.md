@@ -1,159 +1,40 @@
-# Android Developer Roadmap - [MindOrks](https://mindorks.com)
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
+# Android Developer Roadmap
 
-> A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
+
+> A complete roadmap to learn Android App Development.
+
+> The roadmap shown below contains everything that you need to become a native android app developer. Below the roadmap there are resources that you can follow.
+
+> The resources are courses developed by Google.
 
 <p align="center">
 <img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
 </p>
 
-### Note: All the resources to learn all of the above in the roadmap will be provided on [MindOrks Website](https://mindorks.com)
-### All the best tutorials published by MindOrks. [Check here](https://mindorks.com/android-tutorial)
-### Watch the video format. [Check here](https://www.youtube.com/watch?v=kKNgeeL3YOE)
+# Resources
 
-## Roadmap to learn Android App Development
-* Programming
-   * Java
-   * Kotlin
-* Android Studio
-   * Android Studio IDE Overview
-   * Project Structure
-   	   * Java/Kotlin
-   	   * XML
-   	   * .gradle files
-* Android Component
-   * Activity
-     * Activity Lifecycle
-     * Tasks & Back Stack
-   * Service
-   * Broadcast Receiver
-   * Content Provider
-* Intents
-   * Types of Intent
-     * Implicit
-     * Explicit
-   * Intent Filter
-* Static User Interface
-  * View
-      * Button, ImageView, TextView, EditText etc
-  * ViewGroup
-  	   * LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
-* Dynamic User Interface
-   * RecyclerView
-   * ViewPager
-   * Spinner
-* CustomView
-   * Canvas
-   * Bitmap
-   * Paint
-* UI Resources
-   * Drawables
-   * String
-   * Styles
-* Fragments
-   * Fragment Lifecycle
-   * Fragment Manager
-* Support User Interface
-  * ProgressBar
-  * Dialogs
-  * Toast & Snackbar
-* Storage
-  * Shared Preferences
-  * File Systems
-  * Database
-    * RoomDB
-* Build
-  * Gradle
-  * Debug / Release Configuration
-* Threading 
-  * Threads
-  * Handler / Looper
-* Debugging
-  * Memory profiling
-  * Logging
-  * Systrace
-  * Exceptions
-  * Error Handling
-* Memory Leak
-  * Detecting and Fixing Memory Leaks
-  * Context
-* 3rd Party Library
-  * Image Loading
-     * Glide
-     * Picasso
-  * Dependency Injection
-     * Dagger
-  * Networking
-     * Fast Android Networking Library
-     * Retrofit
-  * MultiThreading
-     * RxJava
-     * Coroutines 
-* Data Format
-  * JSON
-     * GSON
-  * Flat Buffer
-  * Protocol Buffer
-* Android Jetpack
-  * Foundation Components
-     * AppCompat
-     * Android KTX
-     * Multidex
-  * Architecture Components
-     * LiveData
-     * ViewModel
-     * DataBinding
-     * Paging
-     * Work Manager
-     * Navigation
-  * Behaviour Components 
-     * Download Manager
-     * Media Playback
-     * Notification
-     * Permissions
-     * Preference
-     * Sharing
-     * Slice
-  * UI Component
-     * Animation & Transition
-     * Android Auto
-     * Emoji
-     * Palette
-     * Android TV
-     * Android Wear
-* Architecture 
-     * MVVM
-     * MVI
-     * MVP
-* Unit Testing
-  	 * Local Unit Testing
-  	 * Instrumentation Testing
-* Firebase
-     * FCM
-     * Crashlytics
-     * Analytics
-     * Remote Config
-     * App Indexing
-     * Dynamic Link
-* Security
-     * Encrypt / Decrypt
-     * Proguard
-     * R8
-* App Release
-     * .keystore file
-     * App Bundle
-     * Playstore
-* Keep Learning and Improving
+## Native Android App development with JAVA
+
+1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+2. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+3. [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+4. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+5. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+6. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+7. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+8. [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+9. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+
+## Native Android App development with Kotlin
+[Follow this course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 
-## [MindOrks](https://mindorks.com)
+-------------------------------
+-------------------------------
+A very big thankyou to Mindorks for this wonderful roadmap. Forked from [here](https://github.com/MindorksOpenSource/android-developer-roadmap)
 
-
-### Learn to build a ride-sharing Android app like Uber, Lyft - [Check here](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
-
-### Found this project useful :heart:
-* Support by clicking the :star: button on the upper right of this page. :v:
+--------------------------------
+-------------------------------
 
 
 ### License
